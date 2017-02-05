@@ -1,2 +1,3 @@
 # hello-world
 Repository as mandated by assignment 4.
+This repository was specifically created for the express purpose of fulfilling the requirements detailed in the second activity of assignment 4 in CS 3376's OW2 section. It was created using an existing GitHub account, but there's nothing in the instructions saying that the account specifically had to be linked to the student ID, so I hope that's okay...
